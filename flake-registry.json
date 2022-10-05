@@ -2,134 +2,12 @@
   "flakes": [
     {
       "from": {
-        "id": "agda",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "agda",
-        "repo": "agda",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "arion",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "hercules-ci",
-        "repo": "arion",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "blender-bin",
-        "type": "indirect"
-      },
-      "to": {
-        "dir": "blender",
-        "owner": "edolstra",
-        "repo": "nix-warez",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "dreampkgs",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "dreampkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "dwarffs",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "edolstra",
-        "repo": "dwarffs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "emacs-overlay",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "emacs-overlay",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "fenix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "fenix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "flake-parts",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "hercules-ci",
-        "repo": "flake-parts",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "flake-utils",
         "type": "indirect"
       },
       "to": {
         "owner": "numtide",
         "repo": "flake-utils",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "gemini",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "flake-gemini",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "hercules-ci-effects",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "hercules-ci",
-        "repo": "hercules-ci-effects",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "hercules-ci-agent",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "hercules-ci",
-        "repo": "hercules-ci-agent",
         "type": "github"
       }
     },
@@ -157,100 +35,12 @@
     },
     {
       "from": {
-        "id": "mach-nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "DavHau",
-        "repo": "mach-nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nimble",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "flake-nimble",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "nix",
         "type": "indirect"
       },
       "to": {
         "owner": "NixOS",
         "repo": "nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nix-darwin",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "LnL7",
-        "repo": "nix-darwin",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixops",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nixops",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixos-hardware",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nixos-hardware",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixos-homepage",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nixos-homepage",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixos-search",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nixos-search",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nur",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "NUR",
         "type": "github"
       }
     },
@@ -312,17 +102,6 @@
     },
     {
       "from": {
-        "id": "nickel",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "tweag",
-        "repo": "nickel",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "bundlers",
         "type": "indirect"
       },
@@ -334,34 +113,46 @@
     },
     {
       "from": {
-        "id": "pridefetch",
+        "id": "idd",
         "type": "indirect"
       },
       "to": {
-        "owner": "SpyHoodle",
-        "repo": "pridefetch",
+        "dir": "scripts/install-dev-dependencies",
+        "owner": "tulip",
+        "repo": "tulip",
         "type": "github"
       }
     },
     {
       "from": {
-        "id": "helix",
+        "id": "sarcodes",
         "type": "indirect"
       },
       "to": {
-        "owner": "helix-editor",
-        "repo": "helix",
+        "owner": "tulip",
+        "repo": "sarcodes",
         "type": "github"
       }
     },
     {
       "from": {
-        "id": "sops-nix",
+        "id": "ak-nix",
         "type": "indirect"
       },
       "to": {
-        "owner": "Mic92",
-        "repo": "sops-nix",
+        "owner": "aakropotkin",
+        "repo": "ak-nix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "at-node-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "aameen-tulip",
+        "repo": "at-node-nix",
         "type": "github"
       }
     }
