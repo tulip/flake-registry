@@ -155,6 +155,39 @@
         "repo": "at-node-nix",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "laika",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "aakropotkin",
+        "repo": "laika",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "rime",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "aakropotkin",
+        "repo": "rime",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "flocoPackages",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "aakropotkin",
+        "repo": "flocoPackages",
+        "type": "github"
+      }
     }
   ],
   "version": 2
