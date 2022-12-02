@@ -188,6 +188,40 @@
         "repo": "flocoPackages",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ponte",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "tulip",
+        "repo": "rafflesia",
+        "type": "github",
+        "dir": "ponte"
+      }
+    },
+    {
+      "from": {
+        "id": "oplogtoredis",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "tulip",
+        "repo": "oplogtoredis",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "arboretum",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "tulip",
+        "repo": "arboretum",
+        "type": "github"
+      }
     }
   ],
   "version": 2
