@@ -8,7 +8,7 @@ This is a json file that lets us run `nix run ponte -- -help` or `nix shell idd`
 To use, modify ~/.config/nix/nix.conf to add the following line:
 
 ```
-flake-registry = https://github.com/tulip/flake-registry/releases/download/v1.2.0/flake-registry.json
+flake-registry = https://github.com/tulip/flake-registry/releases/download/v1.3.0/flake-registry.json
 ```
 
-Where `v1.2.0` should be replaced with the most recent version.
+Where `v1.3.0` should be replaced with the most recent version.
