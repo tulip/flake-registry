@@ -1,7 +1,7 @@
 # Tulip Nix registry
 
 This repo hosts a pointer to all the flakes that we use at tulip
-This is a json file that lets is run `nix run ponte -- -help` or `nix shell idd`  or (eventually) `nix run oplogtoredis`
+This is a json file that lets us run `nix run ponte -- -help` or `nix shell idd`  or (eventually) `nix run oplogtoredis`
 
 ### Usage 
 
