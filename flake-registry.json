@@ -180,6 +180,17 @@
     },
     {
       "from": {
+        "id": "floco",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "aakropotkin",
+        "repo": "floco",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
         "id": "flocoPackages",
         "type": "indirect"
       },
