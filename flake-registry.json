@@ -58,6 +58,17 @@
     },
     {
       "from": {
+        "id": "tulip-nixpkgs",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "tulip",
+        "repo": "tulip-nixpkgs",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
         "id": "templates",
         "type": "indirect"
       },
